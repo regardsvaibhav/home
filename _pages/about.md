@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: Aout
+title: About
 permalink: /
 subtitle: EE @ <a href='https://www.rgipt.ac.in'>RGIPT</a>, India.
 
