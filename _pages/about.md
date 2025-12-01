@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: EE@<a href='https://www.rgipt.ac.in'>RGIPT</a>. Amethi, India.
+subtitle: EE @ <a href='https://www.rgipt.ac.in'>RGIPT</a>, India.
 
 profile:
   align: right
