@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.rgipt.ac.om'>Department of Electrical and Electronics Engineering, Rajiv Gandhi Institute of Petroleum Technology, Amethi</a>. Address. Contacts. Motto. Etc.
+subtitle: EE@<a href='https://www.rgipt.ac.in'>RGIPT</a>. Amethi, India.
 
 profile:
   align: right
