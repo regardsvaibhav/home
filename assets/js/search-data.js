@@ -497,20 +497,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/home/projects/9_project/";
             },},{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/regardsvaibhav", "_blank");
-        },
-      },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/regardsvaibhav", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -518,11 +504,25 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/vaibhavrgipt", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/regardsvaibhav", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=sfh0klMAAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/regardsvaibhav", "_blank");
         },
       },{
       id: 'light-theme',
