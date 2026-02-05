@@ -501,21 +501,28 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/regardsvaibhav", "_blank");
+          window.open("https://github.com/regardsvaibhav", "_blank");
         },
       },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/regardsvaibhav", "_blank");
+          window.open("https://instagram.com/regardsvaibhav", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/vaibhavrgipt/", "_blank");
+          window.open("https://www.linkedin.com/in/vaibhavrgipt", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=sfh0klMAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
